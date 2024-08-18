@@ -1,0 +1,39 @@
+.nav-sec {
+    width: 1440px;
+    height: 576px;
+    background: #F0FFF0;
+
+}
+
+.Sing {
+    padding: 8px 28px;
+    border-radius: 33px;
+    background-color: #21B573 !important;
+    color: rgb(255, 255, 255) !important;
+}
+header h1{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    text-align: left;
+    
+}header h1 samp{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+    text-align: left;
+    color: #21B573;
+}
+.bnr-t{
+    padding: 80px 0px 0px;
+    width: 426px;
+}
+.bnr{
+    width: 554px !important;
+height: 346px;
+top: 124px;
+left: 754px;
+
+}
